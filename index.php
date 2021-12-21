@@ -57,7 +57,7 @@
 	   <img src="gambar/purbasari.jpg" width="200px" heading="100px">
 	    <p>Purbasari</p>
 	  </div>
-	  <p class="text-contents">Purbasari Pancuran Mas memrupakan Wahana yang memiliki bermacam jenis ikan. </p>
+	  <p class="text-contents">Purbasari Pancuran Mas merupakan Wahana yang memiliki bermacam jenis ikan. </p>
 	</div>
 <!--tutup gambar 3-->
 
@@ -116,7 +116,7 @@
 	  	 	<img src="gambar/purbasari.jpg" width="200px" heading="100px">
 	  	 	  <p>Purbasari</p>
 	  	 </div>
-	  	 <p class="text-contents">Purbasari Pancuran Mas memrupakan Wahana yang memiliki bermacam jenis ikan. </p>
+	  	 <p class="text-contents">Purbasari Pancuran Mas merupakan Wahana yang memiliki bermacam jenis ikan. </p>
 	  	</div>
 
 	  	<div class="lesson">

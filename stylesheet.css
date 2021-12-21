@@ -12,10 +12,11 @@ a {
 }
 
 .container {
-	max-width: 1110px;
+	max-width: 1170px;
 	width: 100%;
 	padding: 0 15px;
 	margin: 0 auto;
+	float: left;
 }
 
 .lesson-wrapper {
@@ -60,7 +61,7 @@ a {
 }
 
 .twitter {
-	background-color: red;
+	background-color: blueviolet;
 }
 
 .btn {
@@ -86,16 +87,19 @@ a {
 }
 
 .logo {
-	width: 160px;
+	width: 16px;
 	margin-top: 7px;
 }
 
 .header-left {
 	float: left;
+	width: 20px;
+	height: 20px;
 }
 
 .header-right {
 	float: right;
+	margin-top: 7px;
 }
 
 .header-right a {
@@ -103,7 +107,7 @@ a {
 	padding: 0 25px;
 	color: white;
 	display: block;
-	float: left;
+	float: right;
 	transition: all 0.5s;
 }
 
@@ -127,4 +131,30 @@ a {
 	top: 20%;
 	
 }
-.
+
+.text-contents {
+	width: 80%;
+	display: inline-block;
+	text-align: center;
+	color: red;
+}
+
+.message-wrapper {
+	margin-top: 7px;
+	padding-top: 1px solid;
+	font-size: 20px;
+
+}
+
+.message {
+	padding-bottom: 25px;
+	padding-left: 5%;
+	padding-right: 5%;
+	background-color: #f7f7f7;
+	text-align: center;
+	
+}
+
+.footer p {
+	float: left;
+}
