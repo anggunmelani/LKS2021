@@ -150,9 +150,11 @@ a {
 	padding-bottom: 25px;
 	padding-left: 5%;
 	padding-right: 5%;
-	background-color: #f7f7f7;
-	text-align: center;
+	background-color: orange;
 	
+}
+.footer {
+	display: block;
 }
 
 .footer p {
