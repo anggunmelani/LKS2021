@@ -12,9 +12,9 @@ a {
 }
 
 .container {
-	max-width: 1170px;
+	max-width: 1111px;
 	width: 100%;
-	padding: 0 15px;
+	padding: 0 20px;
 	margin: 0 auto;
 	float: left;
 }
@@ -29,7 +29,7 @@ a {
 
 .top-wrapper {
 	padding: 150px 0 100px 0;
-	background-image: url;
+	background-image: url(52);
 	background-size: cover;
 	text-align: center;
 }
@@ -148,15 +148,18 @@ a {
 
 .message {
 	padding-bottom: 25px;
-	padding-left: 5%;
-	padding-right: 5%;
+	padding-left: 3%;
+	padding-right: 3%;
 	background-color: orange;
 	
 }
+
 .footer {
 	display: block;
 }
 
 .footer p {
 	float: left;
+	position: absolute;
+	padding: 100px 0 100px 0;
 }
