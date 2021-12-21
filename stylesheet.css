@@ -82,12 +82,11 @@ a {
 	width: 100%;
 	background-color: rgba(52;
 	position: fixed;
-	top: 0;
-	z-index: 10;	
+	top: 0;	
 }
 
 .logo {
-	width: 16px;
+	width: 160px;
 	margin-top: 7px;
 }
 
@@ -112,7 +111,7 @@ a {
 }
 
 .header-right a:hover {
-	background-color: rgba(255, 255, 255, 1.0);
+	background-color: rgba(255, 255, 255, 0,3);
 }
 
 .heading {
@@ -140,25 +139,34 @@ a {
 }
 
 .message-wrapper {
-	margin-top: 7px;
-	padding-top: 1px solid;
-	font-size: 20px;
-
+	border-bottom: 1px solid #eee;
+	padding-bottom: 90px;
+	text-align: center;
 }
 
 .message {
 	padding: 45px 50px;
 	background-color: orange;
-
+	cursor: pointer;
+	box-shadow: 0,7 gold;
 	
 }
 
-.footer {
-	display: block;
+.message:active {
+	position: relative;
+	top: 7px;
+	box-shadow: none;
+}
+.footer img {
+	width: 120px;
 }
 
 .footer p {
-	float: left;
-	position: absolute;
-	padding: 100px 0 100px 0;
+	color: blue;
+	font-size: 20px;
+}
+
+.footer {
+	padding-top: 30px;
+	padding-bottom: 18px;
 }
