@@ -147,10 +147,9 @@ a {
 }
 
 .message {
-	padding-bottom: 25px;
-	padding-left: 3%;
-	padding-right: 3%;
+	padding: 45px 50px;
 	background-color: orange;
+
 	
 }
 
